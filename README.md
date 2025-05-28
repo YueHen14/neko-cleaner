@@ -11,12 +11,12 @@
 
 ### 2. 初始化Go模块
 ```bash
-go mod init *<*可被更改>
+go mod init *  ##*可被更改
 ```
 
 ### 3. 编译程序
 ```bash
-go build -ldflags "-s -w" -o *.exe<*可被更改>
+go build -ldflags "-s -w" -o *.exe  ##*可被更改
 ```
 
 ### 4. 运行程序
